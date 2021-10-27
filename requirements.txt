@@ -1,0 +1,21 @@
+# Web application development framework
+streamlit
+pipenv
+pytorch-lightning
+pytorch-lightning-bolts
+pandas
+numpy
+tqdm
+python_speech_features
+torchsummary
+scipy
+audioread
+librosa
+torchvision
+torchmetrics
+pytorch-metric-learning
+augly
+tabulate
+hyperpyyaml
+torchaudio
+tensorboardx
